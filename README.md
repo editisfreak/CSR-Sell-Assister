@@ -1,5 +1,5 @@
 # CSR-Sell-Assister
-Assister for selling many items for CS:R (CS:GO Legacy Revival Project)
+Assister (vibecoded btw) for selling many items for CS:R (CS:GO Legacy Revival Project)
 
 Features:
 - Easy multi sell
