@@ -2565,7 +2565,7 @@ class MainWindow(QMainWindow):
 
     def process_inventory(self, data):
         if not isinstance(data, list): return
-        filtered_data = [item for item in data if str(item.get("item_type", "")) != "8"]
+        filtered_data = [item for item in data]
         
         new_state = json.dumps(filtered_data, sort_keys=True)
         if self.last_inventory_state == new_state: return 
