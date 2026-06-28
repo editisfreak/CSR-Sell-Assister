@@ -95,7 +95,7 @@ TRANSLATIONS = {
     }
 }
 
-RARITY_COLORS = { "6": "#b0c3d9", "5": "#5e98d9", "4": "#4b69ff", "3": "#8847ff", "2": "#d32ce6", "1": "#eb4b4b", "0": "#e4ae39" }
+RARITY_COLORS = { "0": "#b0c3d9", "1": "#5e98d9", "2": "#4b69ff", "3": "#8847ff", "4": "#d32ce6", "5": "#eb4b4b", "6": "#e4ae39" }
 DEFAULT_RARITY_COLOR = "#ffffff"
 
 def hex_to_rgb(hex_color):
